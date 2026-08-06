@@ -13,9 +13,9 @@ Neste perfil você encontrará projetos de:
 
 Alguns projetos em destaque:
 
-- [Projeto] — breve descrição do problema, solução e resultado
-- [Projeto] — tecnologia utilizada e principal aprendizado
-- [Projeto] — aplicação prática ou impacto gerado
+- [trabalho_final_pos](https://github.com/paula-33/trabalho_final_pos) — TCC de pós-graduação com deploy de um modelo de machine learning.
+- [Bootcamp-UniSENAI---Ciencia-de-dados](https://github.com/paula-33/Bootcamp-UniSENAI---Ciencia-de-dados) — projeto final desenvolvido durante um bootcamp de ciência de dados.
+- [Bootcamp_DS](https://github.com/paula-33/Bootcamp_DS) — estudos e experimentos práticos em ciência de dados.
 
 Estou aberta a trocar experiências sobre dados, tecnologia e machine learning.
 
